@@ -19,7 +19,7 @@
         <version.plugin.maven.jacoco>0.8.8</version.plugin.maven.jacoco>
              
         <version.depenency.junit>5.9.2</version.depenency.junit>
-        <version.depenency.assertj.core>3.24.2</version.depenency.assertj.core>
+        <version.depenency.assertj.core>3.27.7</version.depenency.assertj.core>
     </properties>
 
     <dependencies>
